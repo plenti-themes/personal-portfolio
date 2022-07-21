@@ -83,27 +83,27 @@
 							{
 								"info": "HTML",
 								"percent": "90%",
-								"line": ""
+								"line": "line html"
 							},
 							{
 								"info": "CSS",
 								"percent": "60%",
-								"line": ""
+								"line": "line css"
 							},
 							{
 								"info": "JavaScript",
 								"percent": "80%",
-								"line": ""
+								"line": "line js"
 							},
 							{
 								"info": "PHP",
 								"percent": "50%",
-								"line": ""
+								"line": "line php"
 							},
 							{
 								"info": "MySQL",
 								"percent": "70%",
-								"line": ""
+								"line": "line mysql"
 							}
 						]
 					}	
