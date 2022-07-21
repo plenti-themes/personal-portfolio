@@ -115,7 +115,7 @@
 					"title": "My team",
 					"body": "who works with me",
 					"items": [
-						{   "card": "",
+						{   
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
@@ -123,7 +123,7 @@
 								"alt": "Someone's name"
 							}	
 						},
-						{   "card": "",
+						{   
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
@@ -131,7 +131,7 @@
 								"alt": "Someone's name"
 							}	
 						},
-						{   "card": "",
+						{  
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
@@ -139,7 +139,7 @@
 								"alt": "Someone's name"
 							}	
 						},
-						{   "card": "",
+						{  
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
@@ -147,7 +147,7 @@
 								"alt": "Someone's name"
 							}	
 						},
-						{   "card": "",
+						{  
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
