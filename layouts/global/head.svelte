@@ -17,5 +17,6 @@
   <script type="module" src="/spa/ejected/main.js"></script>
 
   <link rel="icon" type="image/svg+xml" href="/assets/logo.svg">
+  <link rel='stylesheet' href='/assets/global.css'>
   <link rel='stylesheet' href='/spa/bundle.css'>
 </head>
