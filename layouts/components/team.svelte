@@ -1,5 +1,30 @@
 <script>
     export let title, items;
+    import { onMount } from 'svelte';
+    onMount(async () => {
+        // owl carousel script
+        var carousel = new ('.carousel').owlCarousel({
+        margin: 20,
+        loop: true,
+        autoplay: true,
+        autoplayTimeOut: 2000,
+        autoplayHoverPause: true,
+        responsive: {
+            0:{
+                items: 1,
+                nav: false
+            },
+            600:{
+                items: 2,
+                nav: false
+            },
+            1000:{
+                items: 3,
+                nav: false
+            }
+        }
+    });
+});
 </script>
    <!-- teams section start -->
     <section class="teams" id="teams">
