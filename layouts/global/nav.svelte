@@ -1,4 +1,10 @@
-<nav class="navbar">
+<script>
+  let y;
+</script>
+
+<svelte:window bind:scrollY={y}/>
+
+<nav class="navbar {y > 20 ? ' sticky' : ''}">
     <div class="max-width">
         <div class="logo"><a href="/">Portfo<span>lio.</span></a></div>
         <ul class="menu">
