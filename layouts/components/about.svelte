@@ -18,7 +18,7 @@
         <h2 class="title">{title}</h2>
         <div class="about-content">
             <div class="column left">
-                <img src="/assets{image.url}" alt="{image.alt}">
+                <img src="{image.url}" alt="{image.alt}">
             </div>
             <div class="column right">
                 <div class="text">{line3} <span class="typing-2"></span><span class="typed-cursor"></span></div>

@@ -34,7 +34,7 @@
                 {#each items as item}
                     <div class="card">
                         <div class="box">
-                            <img src="/assets{item.image.url}" alt="{item.image.alt}">
+                            <img src="{item.image.url}" alt="{item.image.alt}">
                             <div class="text">{item.name}</div>
                             <p>{item.body}</p>
                         </div>
