@@ -6,7 +6,7 @@
 
 <nav class="navbar {y > 20 ? ' sticky' : ''}">
     <div class="max-width">
-        <div class="logo"><a href="/">Portfo<span>lio.</span></a></div>
+        <div class="logo"><a href=".">Portfo<span>lio.</span></a></div>
         <ul class="menu">
             <li><a href="#home" class="menu-btn">Home</a></li>
             <li><a href="#about" class="menu-btn">About</a></li>
