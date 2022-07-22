@@ -18,10 +18,22 @@
                             <span>{bar.info}</span>
                             <span>{bar.percent}</span>
                         </div>
-                        <div class="line html"></div>
+                        <div class="line html">
+                          <div class="percent" style="width: {bar.percent};"></div>
+                        </div>
                     </div>
                 {/each}
             </div>
         </div>
     </div>
 </section>
+
+<style>
+  .percent {
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+  }
+</style>
