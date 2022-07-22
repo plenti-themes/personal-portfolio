@@ -18,7 +18,7 @@
                             <span>{bar.info}</span>
                             <span>{bar.percent}</span>
                         </div>
-                        <div class="line html">
+                        <div class="line">
                           <div class="percent" style="width: {bar.percent};"></div>
                         </div>
                     </div>
