@@ -177,7 +177,7 @@
 				  	},
 				  "email":{
 					  "heading": "Email",
-					  "gmail": "abc@gmail.com",
+					  "address": "abc@gmail.com",
 					  "icon": "fas fa-envelope"
 					},
 				  "button": {

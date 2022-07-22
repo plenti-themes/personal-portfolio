@@ -21,7 +21,7 @@
                 <img src="/assets{image.url}" alt="{image.alt}">
             </div>
             <div class="column right">
-                <div class="text">{line3} <span class="typing-2">F</span><span class="typed-cursor"></span></div>
+                <div class="text">{line3} <span class="typing-2"></span><span class="typed-cursor"></span></div>
                 <p>{body}</p>
                 <a href="{link.url}">{link.title}</a>
             </div>

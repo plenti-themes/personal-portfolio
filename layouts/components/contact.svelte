@@ -29,7 +29,7 @@
                         <i class="{email.icon}"></i>
                         <div class="info">
                             <div class="head">{email.heading}</div>
-                            <div class="sub-title">{email.email}</div>
+                            <div class="sub-title">{email.address}</div>
                         </div>
                     </div>
                 </div>
