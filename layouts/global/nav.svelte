@@ -6,6 +6,7 @@
   }
 
   const scroll = e => {
+    navActive = false;
     document.getElementById(e.target.hash.substring(1)).scrollIntoView();
   }
 </script>

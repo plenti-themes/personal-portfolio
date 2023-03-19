@@ -16,7 +16,7 @@
 
   <link rel="icon" type="image/svg+xml" href="logo.svg">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
   <link rel='stylesheet' href='global.css'>
   <link rel='stylesheet' href='spa/bundle.css'>
 </head>
