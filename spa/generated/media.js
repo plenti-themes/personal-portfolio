@@ -1,0 +1,1 @@
+let allMedia=["media/banner.jpg","media/images/banner.jpg","media/profile-1.jpeg","media/profile-2.jpeg","media/profile-3.jpeg","media/profile-4.jpeg","media/profile-5.jpeg"];export default allMedia

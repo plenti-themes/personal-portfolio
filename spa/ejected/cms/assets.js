@@ -1,1 +1,0 @@
-let allAssets=["assets/banner.jpg","assets/global.css","assets/images/banner.jpg","assets/logo.svg","assets/profile-1.jpeg","assets/profile-2.jpeg","assets/profile-3.jpeg","assets/profile-4.jpeg","assets/profile-5.jpeg"];export default allAssets

@@ -1,0 +1,1 @@
+export let env={local:!1,baseurl:"/personal-portfolio/",entrypoint:"global/html.svelte",cms:{repo:"",redirectUrl:"",appId:"",branch:""}}
