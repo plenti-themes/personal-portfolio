@@ -18,7 +18,7 @@
 <svelte:window bind:scrollY={y}/>
 
 <html lang="en">
-  <Head title={content.filename} {env} />
+  <Head title={content.fields?.meta?.title} {env} />
   <body>
     {#if user && $user.isAuthenticated}
       <svelte:component this={$user.menu} {user} bind:content={content} />

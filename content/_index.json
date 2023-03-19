@@ -1,5 +1,6 @@
 {
 	"meta": {
+	  "title": "Personal Portfolio",
 	  "desc": "Portfolio is a theme for the Plentico static site generator",
 	  "keywords": "Plenti, Svelte, Go, SSG, JAMstack, Themes"
 	},
