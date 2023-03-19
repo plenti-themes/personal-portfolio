@@ -15,7 +15,7 @@
 					  "url": "contact"
 				  },
 				  "image": {
-					  "url": "assets/banner.jpg",
+					  "url": "media/banner.jpg",
 					  "alt": "Profile image"
 				  }
 			  }
@@ -35,7 +35,7 @@
 				 },
 				  "image": {
 					  "position": "left",
-					  "url": "assets/profile-1.jpeg",
+					  "url": "media/profile-1.jpeg",
 					  "alt": "Profile"
 				 }	
 			  } 
@@ -119,7 +119,7 @@
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
-								"url": "assets/profile-1.jpeg",
+								"url": "media/profile-1.jpeg",
 								"alt": "Someone's name"
 							}	
 						},
@@ -127,7 +127,7 @@
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
-								"url": "assets/profile-2.jpeg",
+								"url": "media/profile-2.jpeg",
 								"alt": "Someone's name"
 							}	
 						},
@@ -135,7 +135,7 @@
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
-								"url": "assets/profile-3.jpeg",
+								"url": "media/profile-3.jpeg",
 								"alt": "Someone's name"
 							}	
 						},
@@ -143,7 +143,7 @@
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
-								"url": "assets/profile-4.jpeg",
+								"url": "media/profile-4.jpeg",
 								"alt": "Someone's name"
 							}	
 						},
@@ -151,7 +151,7 @@
 							"name": "Someone's name",
 							"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
 							"image": {
-								"url": "assets/profile-5.jpeg",
+								"url": "media/profile-5.jpeg",
 								"alt": "Someone's name"
 							}	
 						}
