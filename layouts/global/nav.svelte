@@ -16,7 +16,7 @@
 <nav class="navbar {y > 20 ? ' sticky' : ''}">
     <div class="max-width">
         <div class="logo"><a href=".">Portfo<span>lio.</span></a></div>
-        <ul class="menu{navActive ? ' active' : ''}" on:click={toggleMenu}>
+        <ul class="menu{navActive ? ' active' : ''}">
             <li><a on:click|preventDefault={e => scroll(e)} href="#home" class="menu-btn">Home</a></li>
             <li><a on:click|preventDefault={e => scroll(e)} href="#about" class="menu-btn">About</a></li>
             <li><a on:click|preventDefault={e => scroll(e)} href="#services" class="menu-btn">Services</a></li>
